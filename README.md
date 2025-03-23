@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0263-ugly-number) |
