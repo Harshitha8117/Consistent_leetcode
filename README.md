@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
