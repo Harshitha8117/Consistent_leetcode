@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0485-max-consecutive-ones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
