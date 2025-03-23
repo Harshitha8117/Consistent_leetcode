@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
