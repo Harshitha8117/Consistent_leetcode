@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0007-reverse-integer) |
+| [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
