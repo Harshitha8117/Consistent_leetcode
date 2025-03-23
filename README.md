@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -108,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
