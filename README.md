@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
