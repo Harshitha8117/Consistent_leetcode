@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
