@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
