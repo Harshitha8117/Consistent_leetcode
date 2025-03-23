@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
