@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
