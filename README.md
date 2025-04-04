@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
 |  |
 | ------- |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
