@@ -3,9 +3,9 @@ class Solution {
         int sum=0;
         int temp=x;
         while(x>0){
-            int digit=x%10;
-            sum=sum+digit;
-            x=x/10;
+            int dig=x%10;
+            sum+=dig;
+            x/=10;
         }
         if(temp%sum==0)
         return sum;
