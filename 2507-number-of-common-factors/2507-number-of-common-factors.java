@@ -1,15 +1,16 @@
 class Solution {
     public int commonFactors(int a, int b) {
-       int count=0;
-       int s=0;
+        int n=0;
+        int c=0;
         if(a>b)
-        count=a;
+        n=b;
         else
-        count=b;
-        for(int i=1;i<=count;i++){
-            if(a%i==0 && b%i==0)
-                s+=1;
+        n=a;
+        for(int i=1;i<=n;i++){
+            if(a%i==0 && b%i==0){
+                c+=1;
+            }
         }
-        return s; 
+        return c;
     }
 }
