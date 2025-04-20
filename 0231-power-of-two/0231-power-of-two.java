@@ -5,10 +5,11 @@ class Solution {
         while(n>0){
             if(n==1)
             return true;
-            else if(n%2!=0)
+            if(n%2!=0)
             break;
-            n=n/2;
+            n/=2;
         }
+
         return false;
     }
 }
