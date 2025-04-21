@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2249-count-the-hidden-sequences](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2350-find-closest-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2249-count-the-hidden-sequences](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2249-count-the-hidden-sequences) |
 ## Matrix
 |  |
 | ------- |
