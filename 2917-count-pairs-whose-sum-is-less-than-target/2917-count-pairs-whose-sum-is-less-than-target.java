@@ -3,8 +3,8 @@ class Solution {
         int count=0;
         for(int i=0;i<nums.size();i++){
             for(int j=1;j<nums.size();j++){
-                if(nums.get(i)+nums.get(j)<target && i<j){
-                    count+=1;
+                if(nums.get(i)+nums.get(j)<target&& i<j){
+                    count++;
                 }
             }
         }
