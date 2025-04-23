@@ -1,16 +1,20 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        int x=0;
+        int X=0;
         for(String i:operations){
-            if(i.equals("X++"))
-                x++;
-            if(i.equals("X--"))
-                x--;
-            if(i.equals("--X"))
-                --x;
-            if(i.equals("++X"))
-                ++x;
+            if(i.equals("X++")){
+                X++;
+            }
+            if(i.equals("++X")){
+                ++X;
+            }
+            if(i.equals("X--")){
+                X--;
+            }
+            if(i.equals("--X")){
+                --X;
+            }
         }
-        return x;
+        return X;
     }
 }
