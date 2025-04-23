@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1500-count-largest-group](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2050-count-good-numbers) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
