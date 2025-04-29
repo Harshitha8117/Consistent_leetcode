@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
 |  |
 | ------- |
