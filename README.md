@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Binary Search
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1791-richest-customer-wealth) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -424,8 +427,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
