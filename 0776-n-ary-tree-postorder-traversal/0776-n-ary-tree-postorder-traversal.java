@@ -19,16 +19,17 @@ class Node {
 
 class Solution {
     public List<Integer> postorder(Node root) {
-        List<Integer> res=new ArrayList<>();
-        
-        if(root==null)
-        return res;
+        List<Integer> a=new ArrayList<>();
 
+        if(root==null){
+            return a;
+        }
         for(Node children:root.children){
-            res.addAll(postorder(children));
+            a.addAll(postorder(children));
         }
 
-        res.add(root.val);
-        return res;
+        a.add(root.val);
+        return a;
+
     }
 }
