@@ -20,13 +20,13 @@ class Node {
 class Solution {
     public List<Integer> preorder(Node root) {
         List<Integer> res=new ArrayList<>();
-        if(root==null)
-        return res;
 
+        if(root==null){
+            return res;
+        }
         res.add(root.val);
-
-        for(Node child:root.children){
-            res.addAll(preorder(child));
+        for(Node children:root.children){
+            res.addAll(preorder(children));
         }
         return res;
     }
