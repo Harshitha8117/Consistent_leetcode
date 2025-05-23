@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Simulation
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Breadth-First Search
 |  |
