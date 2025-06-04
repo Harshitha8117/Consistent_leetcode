@@ -3,8 +3,6 @@ class Solution
     public String answerString(String word, int numFriends)
     {
         int N = word.length();
-
-        // Step 1: Handle base case where all friends can split the string
         if (numFriends == 1)
         {
             return word;
@@ -37,8 +35,6 @@ class Solution
                 }
             }
         }
-
-        // Step 6: Return the result
         return maxString;
     }
 }
