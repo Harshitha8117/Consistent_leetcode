@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0338-counting-bits) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Stack
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0217-contains-duplicate) |
@@ -531,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
