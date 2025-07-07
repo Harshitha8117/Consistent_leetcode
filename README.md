@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0945-snakes-and-ladders) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Hash Table
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
