@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2048-build-array-from-permutation) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1813-maximum-erasure-value](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
