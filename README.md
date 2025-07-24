@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2050-count-good-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0682-baseball-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
