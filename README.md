@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0292-nim-game) |
 | [0368-largest-divisible-subset](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
@@ -572,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0139-word-break) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
