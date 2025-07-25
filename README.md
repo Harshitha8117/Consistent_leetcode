@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0368-largest-divisible-subset) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
