@@ -1,15 +1,17 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        int size=n*2;
-        int res[]=new int[size];
-        for(int i=0,j=0;i<size;i++){
+        int N=n*2;
+        int sol[]=new int[N];
+        for(int i=0,j=0;i<N;i++){
             if(i%2==0){
-                res[i]=nums[j++];
+                sol[i]=nums[j++];
             }
             else{
-                res[i]=nums[n++];
+                sol[i]=nums[n++];
             }
         }
-        return res;
+        return sol;
     }
 }
+
+
