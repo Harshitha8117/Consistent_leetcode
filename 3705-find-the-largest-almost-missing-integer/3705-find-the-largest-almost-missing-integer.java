@@ -7,14 +7,16 @@ class Solution {
             for(int j=i;j<i+k;j++){
                 set.add(nums[j]);
             }
-            for(int ele:set){
-                sol[ele]++;
-            }
+            for(int nu:set)
+            sol[nu]++;
         }
         for(int i=50;i>=0;i--){
-            if(sol[i]==1)
-            return i;
+            if(sol[i]==1){
+                return i;
+            }
         }
         return -1;
     }
 }
+
+
