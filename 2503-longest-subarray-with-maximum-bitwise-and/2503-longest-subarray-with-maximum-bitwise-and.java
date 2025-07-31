@@ -11,7 +11,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==great){
                 c++;
-                maxc=Math.max(maxc,c);
+                maxc=Math.max(c,maxc);
             }
             else{
                 c=0;
