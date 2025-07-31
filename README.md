@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
