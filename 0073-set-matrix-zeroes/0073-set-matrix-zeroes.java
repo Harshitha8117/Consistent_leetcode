@@ -1,38 +1,20 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        List<List<Integer>> zeroPos = new ArrayList<>();
-        int m = matrix.length;
-        int n = matrix[0].length;
-
-        for (int i = 0;i<m;i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    List<Integer> dummy = Arrays.asList(i, j);
-                    zeroPos.add(dummy);
+        int a[]=new int[matrix.length];
+        int b[]=new int[matrix[0].length];
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                if(matrix[i][j]==0){
+                    a[i]=-1;
+                    b[j]=-1;
                 }
             }
         }
-
-        int sol = zeroPos.size();
-        int start, end;
-
-        for (int i = 0;i<sol;i++) {
-            start = zeroPos.get(i).get(0);
-            end = zeroPos.get(i).get(1);
-            MakeRowZeroes(matrix[start],n);
-            MakeColumnZeroes(matrix,m,end);
-        }
-    }
-
-    void MakeRowZeroes(int[] arr,int n) {
-        for (int i = 0;i<n;i++) {
-            arr[i] = 0;
-        }
-    }
-
-    void MakeColumnZeroes(int[][] arr,int m,int index) {
-        for (int i = 0;i < m;i++) {
-            arr[i][index] = 0;
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                if(a[i]==-1||b[j]==-1)
+                matrix[i][j]=0;
+            }
         }
     }
 }
