@@ -5,7 +5,7 @@ class Solution {
             char a=num.charAt(i);
             char b=num.charAt(i+1);
             char c=num.charAt(i+2);
-            if(a==b&&b==c&&c==a){
+            if(a==b && b==c && c==a){
                 if(ans.isEmpty() || a>ans.charAt(0))
                 ans=""+a+a+a;
             }
@@ -13,7 +13,3 @@ class Solution {
         return ans;
     }
 }
-
-
-
-
