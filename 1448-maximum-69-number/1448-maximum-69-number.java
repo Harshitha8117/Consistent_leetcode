@@ -3,14 +3,12 @@ class Solution {
         int temp=num;
         int i=1;
         int rev=0;
-
         while(num>0){
             int dig=num%10;
             rev=rev*10+dig;
-            i*=10;
             num/=10;
+            i*=10;
         }
-
         while(rev%10==9){
             rev/=10;
             i/=10;
