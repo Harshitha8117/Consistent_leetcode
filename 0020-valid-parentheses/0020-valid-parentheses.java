@@ -28,23 +28,28 @@
 
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
-        for (char c : s.toCharArray()) {
-            if (c == '(' || c == '{' || c == '[') {
-                st.push(c);
-            } else {
-                if (st.isEmpty())
+        Stack<Character> stack=new Stack<>();
+        for(char c:s.toCharArray()){
+            if(c=='(' || c=='[' || c=='{'){
+                stack.push(c);
+            }
+            else{
+                if(stack.isEmpty())
                 return false;
-                char top = st.peek();
-                if ((c == ')' && top == '(') ||
-                    (c == '}' && top == '{') ||
-                    (c == ']' && top == '[')) {
-                    st.pop();
-                } else {
+                    char top=stack.peek();
+                    if((c==')' && top=='(') || 
+                    (c=='}' && top=='{') || 
+                    (c==']' && top=='[')){
+                        stack.pop();
+                    }
+                    else{
                     return false;
-                }
+                    }
             }
         }
-        return st.isEmpty();
+        return stack.isEmpty();
     }
 }
+
+
+
