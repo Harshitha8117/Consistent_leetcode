@@ -1,9 +1,9 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        Map<Integer,Integer> map=new HashMap<>();
-        int rank=1;
-        int[] b=arr.clone();
+        int b[]=arr.clone();
         Arrays.sort(b);
+        int rank=1;
+        Map<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<arr.length;i++){
             if(!map.containsKey(b[i])){
                 map.put(b[i],rank++);
