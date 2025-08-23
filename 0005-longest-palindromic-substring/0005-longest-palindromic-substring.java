@@ -1,53 +1,20 @@
-class Solution{
-    public String longestPalindrome(String s){
+class Solution {
+    public String longestPalindrome(String s) {
         int n=s.length();
-        int maxlen=1,start=0;
-        boolean a[][]=new boolean[n][n];
-        for(int i=n-1;i>=0;i--){
-            for(int j=i;j<n;j++){
-                if(s.charAt(i)==s.charAt(j)){
-                    if(j-i<2 || a[i+1][j-1]){
-                        a[i][j]=true;
-                        if(j-i+1>maxlen){
-                            maxlen=j-i+1;
-                            start=i;
-                        }
+        int start=0,end=1,max=0;
+        boolean[][] dp=new boolean[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if((s.charAt(i)==s.charAt(j))&&((i-j<2)||dp[i-1][j+1])){
+                    dp[i][j]=true;
+                    if(i-j>max){
+                        max=i-j;
+                        start=j;
+                        end=i+1;
                     }
                 }
             }
         }
-        return s.substring(start,start+maxlen);
+        return s.substring(start,end);     
     }
 }
-
-
-
-
-
-
-
-
-
-
-/*class Solution {
-    public String longestPalindrome(String s) {
-        int n = s.length();
-        boolean[][] dp = new boolean[n][n];
-        int start = 0, maxLen = 1;
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = i; j < n; j++) {
-                if (s.charAt(i) == s.charAt(j)) {
-                    if (j - i < 2 || dp[i + 1][j - 1]) {
-                        dp[i][j] = true;
-                        if (j - i + 1 > maxLen) {
-                            maxLen = j - i + 1;
-                            start = i;
-                        }
-                    }
-                }
-            }
-        }
-        return s.substring(start, start + maxLen);
-    }
-}*/
-
