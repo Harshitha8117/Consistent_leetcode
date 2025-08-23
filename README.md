@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
