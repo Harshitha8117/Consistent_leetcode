@@ -19,37 +19,28 @@
 
 class Solution {
     public String largestNumber(int[] nums) {
-        // Convert integers to strings manually
-        String[] strNums = new String[nums.length];
+        String[] str = new String[nums.length];
         for (int i = 0; i < nums.length; i++) {
-            strNums[i] = "" + nums[i];
+            str[i] = "" + nums[i];
         }
-
-        // Manual sort using custom comparison logic
-        for (int i = 0; i < strNums.length; i++) {
-            for (int j = i + 1; j < strNums.length; j++) {
-                String ij = strNums[i] + strNums[j];
-                String ji = strNums[j] + strNums[i];
-                if (ji.compareTo(ij) > 0) {
-                    // Swap
-                    String temp = strNums[i];
-                    strNums[i] = strNums[j];
-                    strNums[j] = temp;
+        for (int i = 0; i < str.length; i++) {
+            for (int j = i + 1; j < str.length; j++) {
+                String a = str[i] + str[j];
+                String b = str[j] + str[i];
+                if (b.compareTo(a) > 0) {
+                    String temp = str[i];
+                    str[i] = str[j];
+                    str[j] = temp;
                 }
             }
         }
-
-        // Edge case: if the largest number is "0", return "0"
-        if (strNums[0].equals("0")) {
+        if (str[0].equals("0")) {
             return "0";
         }
-
-        // Concatenate manually
         String result = "";
-        for (int i = 0; i < strNums.length; i++) {
-            result += strNums[i];
+        for (int i = 0; i < str.length; i++) {
+            result += str[i];
         }
-
         return result;
     }
 }
