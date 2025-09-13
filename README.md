@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
