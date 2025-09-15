@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3194-find-words-containing-character) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
