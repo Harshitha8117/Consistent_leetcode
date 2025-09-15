@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
