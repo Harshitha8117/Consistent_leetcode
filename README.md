@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -732,11 +734,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
 ## Union Find
 |  |
 | ------- |
