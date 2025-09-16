@@ -1,4 +1,4 @@
-class Solution{
+/*class Solution{
     public static int smallestIndex(int[] nums){
         int n=nums.length;
         for(int i=0;i<n;i++){
@@ -18,13 +18,13 @@ class Solution{
         }
         return sum;
     }
-}
+}*/
 
 
 
 
 
-/*class Solution {
+class Solution {
     public int smallestIndex(int[] nums) {
         int ss=0;
         for(int i=0;i<nums.length;i++){
@@ -42,4 +42,4 @@ class Solution{
         }
         return -1;
     }
-}*/
+}
