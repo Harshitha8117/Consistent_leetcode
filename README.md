@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2551-apply-operations-to-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
