@@ -741,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
