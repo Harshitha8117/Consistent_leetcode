@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2050-count-good-numbers) |
+| [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2491-smallest-even-multiple) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2507-number-of-common-factors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2507-number-of-common-factors) |
 | [2998-count-symmetric-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2998-count-symmetric-integers) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2507-number-of-common-factors) |
