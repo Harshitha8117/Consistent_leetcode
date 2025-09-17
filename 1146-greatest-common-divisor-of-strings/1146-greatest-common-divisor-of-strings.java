@@ -4,7 +4,6 @@ class Solution {
         return "";
         int gcd=findGcd(str1.length(),str2.length());
         return str1.substring(0,gcd);
-
     }
 
     static int findGcd(int a,int b){
