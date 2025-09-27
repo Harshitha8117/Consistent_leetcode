@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0830-largest-triangle-area) |
 | [0932-monotonic-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0945-snakes-and-ladders) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0507-perfect-number) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -780,4 +782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0584-find-customer-referee) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
