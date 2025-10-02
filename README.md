@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2857-total-distance-traveled](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2857-total-distance-traveled) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3336-water-bottles-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
