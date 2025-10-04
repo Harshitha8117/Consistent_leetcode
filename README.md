@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Stack
