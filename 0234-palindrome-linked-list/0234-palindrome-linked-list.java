@@ -8,25 +8,28 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
-    public boolean isPalindrome(ListNode head) {
-        if(head==null && head.next==null)
+
+
+
+class Solution{
+    public boolean isPalindrome(ListNode head){
+        if(head==null || head.next==null)
         return true;
 
-        ArrayList<Integer> res=new ArrayList<>();
         ListNode temp=head;
+        ArrayList<Integer> res=new ArrayList<>();
 
         while(temp!=null){
             res.add(temp.val);
             temp=temp.next;
         }
 
-        int start=0,end=res.size()-1;
-        while(start<end){
-            if(!res.get(start).equals(res.get(end)))
+        int i=0,j=res.size()-1;
+        while(i<j){
+            if(!res.get(i).equals(res.get(j)))
             return false;
-                start++;
-                end--;
+            i++;
+            j--;
         }
         return true;
     }
