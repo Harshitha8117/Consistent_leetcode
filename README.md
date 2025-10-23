@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2507-number-of-common-factors) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
