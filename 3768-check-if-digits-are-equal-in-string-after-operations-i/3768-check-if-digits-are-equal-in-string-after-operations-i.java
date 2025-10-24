@@ -5,7 +5,7 @@ class Solution {
         while(s.length()>2 && i<s.length()-1){
             sol+=(char)(((s.charAt(i)-'0'+s.charAt(i+1)-'0')%10)+'0');
             i++;
-            if(i==s.length()-1){
+            if(s.length()-1==i){
                 s=sol;
                 i=0;
                 sol="";
