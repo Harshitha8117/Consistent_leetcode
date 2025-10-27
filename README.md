@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2383-add-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2491-smallest-even-multiple) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0945-snakes-and-ladders) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
