@@ -4,15 +4,16 @@ class Solution {
         return "";
         col--;
         char c=(char) ('A'+col%26);
-        return convertToTitle(col/26)+c;*/
-        StringBuilder sb=new StringBuilder();
+        return convertToTitle(col/26)+c;
+        */
+        String str="";
         while(col>0){
           col--;
           char c=(char) ('A'+ col%26);
-          sb.insert(0,c);
+          str=c+str;
           col/=26;
         }
-        return sb.toString();
+        return str;
     }
 }
 
