@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2491-smallest-even-multiple) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
