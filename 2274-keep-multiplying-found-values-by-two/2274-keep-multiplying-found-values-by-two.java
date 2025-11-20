@@ -1,13 +1,17 @@
 class Solution {
     public int findFinalValue(int[] nums, int k) {
-        int bits = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] % k != 0) continue;
-            nums[i] = nums[i] / k;
-            if ((nums[i] & (nums[i] - 1)) == 0)
-                bits |= nums[i];
+        int ans=1;
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            for(int j=0;j<nums.length;j++){
+            if(nums[j]==k){
+                ans=k*2;
+                k=ans;
+            }
+            }
         }
-        int d = bits + 1;
-        return k * (d & -d);
+        if(ans<2)
+        ans=k;
+        return ans;
     }
 }
