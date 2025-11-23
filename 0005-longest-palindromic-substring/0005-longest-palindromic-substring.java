@@ -18,4 +18,3 @@ class Solution {
         return s.substring(start,end);
     }
 }
-
