@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0371-sum-of-two-integers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
