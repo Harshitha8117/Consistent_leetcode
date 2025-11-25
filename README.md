@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1086-divisor-game) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1256-rank-transform-of-an-array) |
