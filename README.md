@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [0953-reverse-only-letters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0953-reverse-only-letters) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -874,4 +879,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0830-largest-triangle-area) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
