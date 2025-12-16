@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2050-count-good-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2083-three-divisors) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
