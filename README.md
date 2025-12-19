@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
