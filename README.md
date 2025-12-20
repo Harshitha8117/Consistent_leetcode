@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2678-number-of-senior-citizens](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3194-find-words-containing-character) |
