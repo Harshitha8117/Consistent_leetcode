@@ -1,5 +1,26 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
+        int res[]=new int[nums.length];
+        int j=0;
+        for(int i=0;i<nums.length;i++){
+            if(i%2==0){
+                res[i]=nums[j++];
+            }
+            else{
+                res[i]=nums[n++];
+            }
+        }
+        return res;
+    }
+}
+
+
+
+
+
+
+/*class Solution {
+    public int[] shuffle(int[] nums, int n) {
         int a[]=new int[n];
         int b[]=new int[n];
         for(int i=0;i<n;i++){
@@ -21,3 +42,4 @@ class Solution {
         return nums;
     }
 }
+*/
