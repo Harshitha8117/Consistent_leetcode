@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0739-daily-temperatures) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1018-largest-perimeter-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
