@@ -5,9 +5,6 @@ class Solution {
         for(int i=0;i<apple.length;i++){
             sum+=apple[i];
         }
-        for(int i=0;i<capacity.length;i++){
-            sum1+=capacity[i];
-        }
         for(int i=capacity.length-1;i>=0;i--){
             ss+=capacity[i];
             c++;
