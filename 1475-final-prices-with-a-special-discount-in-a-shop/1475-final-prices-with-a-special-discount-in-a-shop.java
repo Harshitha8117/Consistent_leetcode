@@ -8,8 +8,8 @@ class Solution {
         }
         for (int i=0;i<n;i++) { 
             while (!stack.isEmpty()&& prices[i]<=prices[stack.peek()]) { 
-                int idx=stack.pop(); 
-                ans[idx]=prices[idx]-prices[i]; 
+                int a=stack.pop(); 
+                ans[a]=prices[a]-prices[i]; 
             } 
             stack.push(i); 
         }
