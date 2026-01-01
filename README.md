@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
