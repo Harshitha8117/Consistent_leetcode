@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0797-rabbits-in-forest) |
