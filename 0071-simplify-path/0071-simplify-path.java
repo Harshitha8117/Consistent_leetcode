@@ -1,8 +1,8 @@
 class Solution {
     public static String simplifyPath(String path) {
         Stack<String> stack = new Stack<>();
-        String[] parts = path.split("/");  
-        for (String s : parts) {
+        String[] str = path.split("/");  
+        for (String s : str) {
             if (s.equals("") || s.equals(".")) {
                 continue;
             } else if (s.equals("..")) {
