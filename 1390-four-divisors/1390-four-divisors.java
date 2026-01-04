@@ -2,14 +2,14 @@ class Solution {
     public int sumFourDivisors(int[] nums) {
         int tot=0;
         for(int num:nums){
-            int sum=prime(num);
+            int sum=fact(num);
             if(sum!=-1){
                 tot+=sum;
             }
         }
         return tot;
     }
-    static int prime(int n){
+    static int fact(int n){
         int c=0;
         int t=0;
         for(int i=1;i<=n;i++){
