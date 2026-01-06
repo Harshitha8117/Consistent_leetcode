@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
