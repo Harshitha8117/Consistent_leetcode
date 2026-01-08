@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1046-last-stone-weight) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1046-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
