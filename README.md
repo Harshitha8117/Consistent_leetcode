@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Stack
