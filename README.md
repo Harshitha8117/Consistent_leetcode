@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-count-of-interesting-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
