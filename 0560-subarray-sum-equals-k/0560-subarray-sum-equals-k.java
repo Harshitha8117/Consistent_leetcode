@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int subarraySum(int[] nums, int k) {
         int count=0;
         for(int i=0;i<nums.length;i++){
@@ -11,9 +11,9 @@ class Solution {
         }
         return count;
     }
-}
+}*/
 
-/*
+
 class Solution {
     public int subarraySum(int[] nums, int k) {
         HashMap<Integer,Integer> map=new HashMap<>();
@@ -28,4 +28,4 @@ class Solution {
         }
         return c;
     }
-}*/
+}
