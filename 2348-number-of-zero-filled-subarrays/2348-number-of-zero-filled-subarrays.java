@@ -5,6 +5,25 @@ class Solution {
         for(int num:nums){
             if(num==0){
                 c++;
+                sum+=c;
+            }
+            else{
+                c=0;
+            }
+        }
+        return sum;
+    }
+}
+
+
+/*
+class Solution {
+    public long zeroFilledSubarray(int[] nums) {
+        int c=0;
+        long sum=0;
+        for(int num:nums){
+            if(num==0){
+                c++;
             }
             else{
                 sum+=(1L*c*(c+1)/2);
@@ -15,6 +34,4 @@ class Solution {
         return sum;
     }
 }
-
-
-
+*/
