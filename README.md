@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1813-maximum-erasure-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
