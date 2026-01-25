@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -932,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1813-maximum-erasure-value](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
