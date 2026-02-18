@@ -721,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
