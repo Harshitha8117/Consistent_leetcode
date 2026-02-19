@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0455-assign-cookies) |
+| [0696-count-binary-substrings](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0696-count-binary-substrings) |
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0953-reverse-only-letters) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
