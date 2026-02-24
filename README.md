@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
 |  |
