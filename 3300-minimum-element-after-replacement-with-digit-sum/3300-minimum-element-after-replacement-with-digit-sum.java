@@ -1,22 +1,20 @@
 class Solution {
     public int minElement(int[] nums) {
-        int i=0;
-        List<Integer> a=new ArrayList<>();
-        while(i<nums.length){
-            if(nums[i]>9){
-                int temp=nums[i];
-                int rev=0;
+        int min=Integer.MAX_VALUE;
+        for(int num:nums){
+            if(num>9){
+                int sum=0;
+                int temp=num;
                 while(temp>0){
-                    int dig=temp%10;
-                    rev+=dig;
+                    sum+=temp%10;
                     temp/=10;
                 }
-                nums[i]=rev;
+                num=sum;
             }
-            a.add(nums[i]);
-            i++;
+            if(num<min){
+                min=num;
+            }
         }
-        Collections.sort(a);
-        return a.get(0);
+        return min;
     }
 }
