@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Harshitha8117/Consistent_leetcode/tree/master/3371-harshad-number) |
